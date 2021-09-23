@@ -1,0 +1,10 @@
+body {
+    background-color: royalblue;
+}
+
+.my-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 5rem;
+}
